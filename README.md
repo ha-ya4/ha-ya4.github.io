@@ -1,1 +1,0 @@
-# ha-ya4.github.io

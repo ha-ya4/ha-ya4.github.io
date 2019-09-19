@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2ce1ad75822d790f764724ff8c14dd3f.js"
+  "/precache-manifest.8ef7f6efe78b9f07579f44c4aae4362a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tip-pocket-nem"});
